@@ -36,7 +36,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "Label0c6cc6cc2817c4a"
+        "Label0c6cc6cc2817c4a",
+        "Button0ic56b5741e654a"
     ],
     "clipbounds": true,
     "containerweight": 100,
