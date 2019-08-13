@@ -30,7 +30,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flex1"
+        "flex1",
+        "Image0fe33bc41d5c347"
     ],
     "containerweight": 100,
     "controllerInfo": {
