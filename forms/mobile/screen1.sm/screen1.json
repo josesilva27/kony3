@@ -32,7 +32,8 @@
     "children": [
         "flex1",
         "Image0fe33bc41d5c347",
-        "Image0ja749082a4bf40"
+        "Image0ja749082a4bf40",
+        "Button0bbabb311fe0244"
     ],
     "containerweight": 100,
     "controllerInfo": {
